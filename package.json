@@ -1,0 +1,27 @@
+{
+  "name": "nanoscopic",
+  "version": "1.0.0",
+  "description": "inversion of control with saga containers",
+  "main": "nanoscopic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://archive.voodoowarez.com/"
+  },
+  "keywords": [
+    "ioc",
+    "saga"
+  ],
+  "author": "rektide de la faye",
+  "license": "X",
+  "dependencies": {
+    "immutable": "^3.7.6",
+    "sagaware": "^1.0.1"
+  },
+  "color": "mustang",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
